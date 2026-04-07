@@ -87,6 +87,11 @@ babelzapper/etc/Makefile
 babelzapper/meta/Makefile
 babelzapper/src/Makefile
 
+birthdayreminder/Makefile
+birthdayreminder/meta/Makefile
+birthdayreminder/po/Makefile
+birthdayreminder/src/Makefile
+
 blindscan/src/Makefile
 blindscan/po/Makefile
 blindscan/Makefile
@@ -96,6 +101,11 @@ blindscan/src/images/Makefile
 bonjour/Makefile
 bonjour/meta/Makefile
 bonjour/src/Makefile
+
+btdevicesmanager/Makefile
+btdevicesmanager/src/Makefile
+btdevicesmanager/meta/Makefile
+btdevicesmanager/po/Makefile
 
 cdinfo/Makefile
 cdinfo/meta/Makefile
@@ -148,7 +158,6 @@ epgrefresh/Makefile
 epgrefresh/meta/Makefile
 epgrefresh/po/Makefile
 epgrefresh/src/Makefile
-epgrefresh/src/webinterface/Makefile
 
 epgsearch/Makefile
 epgsearch/meta/Makefile
